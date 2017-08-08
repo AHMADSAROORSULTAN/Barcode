@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itextpdf-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itextpdf-5.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itextpdf-5.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itext-pdfa-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itext-pdfa-5.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itext-pdfa-5.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itext-xtra-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itext-xtra-5.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/itext-5.3.1/itext-xtra-5.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/h2-2017-03-10/h2/bin/h2-1.4.194.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/H2/bin/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
